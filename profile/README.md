@@ -13,8 +13,7 @@ SpringFramework를 활용한 결혼 정보 커뮤니티
 - 프로젝트 매니저 : 윤해빈
 - 형상관리자     : 김지호, 조은성
 - DBA         : 임찬울, 남지혜, 강민서, 박진현
-- <img alt="Static Badge" src="https://img.shields.io/badge/notion">
-Nothion : https://www.notion.so/ohgiraffers/4e59ae40d0294c9ab171e0bcbbc7240e
+- Nothion : https://www.notion.so/ohgiraffers/4e59ae40d0294c9ab171e0bcbbc7240e
 <br>
 
 
