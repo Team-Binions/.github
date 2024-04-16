@@ -1,12 +1,33 @@
-## Hi there 👋
+# Binions
 
-<!--
+## SpingFramework-Project-예랑예신(OneStop Wedding info communiuty)
+SpringFramework를 활용한 결혼 정보 커뮤니티
 
-**Here are some ideas to get you started:**
+## 🖥️ 프로젝트 소개
+웨딩 관련 커뮤니티 웹사이트로
+결혼을 준비하는 사용자부터 경험자까지
+익명성을 바탕으로 다양한 정보를 공유하는 플랫폼 제공
+<br>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 📝 시장 조사 및 업무 분석
+
+## 🙋‍♂ 요구 사항 명세
+
+## 🕰️ 개발 기간
+
+
+### 🧑‍🤝‍🧑 멤버구성
+- 프로젝트 매니저 : 윤해빈
+- 형상관리자1    : 김지호
+- 형상관리자2    : 조은성
+- 팀원1        : 임찬울
+- 팀원2        : 강민서
+- 팀원3        : 박진현
+- 팀원4        : 남지혜
+
+### ⚙️ 개발 환경
+
+
+## 🔍 주요 기능
+
+
